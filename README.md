@@ -22,6 +22,8 @@ Packages Downloaded:
 tweepy
 pandas
 
+![Get actionable Threat Intelligence from Twitter Jupyter Notebook](images/sentinelTI2.png)
+
 
 ## Contributing
 
