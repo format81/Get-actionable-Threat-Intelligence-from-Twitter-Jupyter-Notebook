@@ -1,4 +1,5 @@
 # Get actionable Threat Intelligence from Twitter Jupyter Notebook
+https://medium.com/@antonio.formato/microsoft-sentinel-get-actionable-threat-intelligence-from-twitter-6fb79a39c96d
 
 ## Overview
 
