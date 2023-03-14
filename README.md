@@ -1,5 +1,4 @@
-# JupyterNotebookGet_TI_Twitter
-Get actionable Threat Intelligence from Twitter Jupyter Notebook
+# Get actionable Threat Intelligence from Twitter Jupyter Notebook
 
 ## Overview
 
