@@ -1,17 +1,11 @@
 # Get actionable Threat Intelligence from Twitter Jupyter Notebook
-https://medium.com/@antonio.formato/microsoft-sentinel-get-actionable-threat-intelligence-from-twitter-6fb79a39c96d
+Blog post: https://medium.com/@antonio.formato/microsoft-sentinel-get-actionable-threat-intelligence-from-twitter-6fb79a39c96d
 
 ## Overview
 
-Social media platforms allow users to communicate and share information. For security professionals, it could be more than just a networking tool. It can also be an additional source of valuable information on topics from vulnerabilities, exploits, and malware to threat actors and anomalous cyber activities. 
+Social media platforms like Twitter have become a valuable source of information for cybersecurity professionals. Many cybersecurity experts use Twitter to share information about the latest threats and potential IOC’s that could help identify and prevent attacks. However, manually collecting and analyzing this data can be time-consuming and challenging.
 
-<p style="border: solid; padding: 5pt; color: white; background-color: Green">
-This notebook allows a user to get Indicators of Comprimise (IOC) from Twitter. Search is based on hashtags.
-</p>
-
-**Please be aware it's just a playground.**
-
-*Sharing sensitive information with an AI like ChatGPT requires careful consideration of the risks and potential consequences. Organizations need to ensure that they have robust privacy, security, and ethical frameworks in place to protect sensitive information and minimize the potential for harm.*
+To address this challenge, I decided to write a Jupyter Notebook that can automate the process of collecting IOC’s from Twitter and putting them in Microsoft Sentinel using MSTICPy.
 
 ## Info & Requirements
 Notebook Version: 1.0
